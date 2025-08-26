@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 
 // In a real app, you might want to generate the slide ids dynamically
-const slides = ['1', '2'];
+const slides = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20'];
 
 type PresentationState = {
   slides: string[];
